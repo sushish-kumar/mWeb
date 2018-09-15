@@ -1,1 +1,2 @@
 this is seventh file
+this is its second line
